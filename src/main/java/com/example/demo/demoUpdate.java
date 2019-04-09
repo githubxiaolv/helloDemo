@@ -4,6 +4,6 @@ public class demoUpdate {
 
     public void ss() {
         System.out.println("这个是开发的分支");
-
+        System.out.println("这个是master提交的");
     }
 }
